@@ -16,13 +16,6 @@ var myModule = module("myModule");
 myModule.use("someOtherMod");
 ```
 
-```c#
-var test = new Test("hello");
-public class Test()
-{
-}
-```
-
 ### app(appName)
 Create/references the app by name.
 
