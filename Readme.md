@@ -5,6 +5,7 @@ Provides Angular like bootstrapping with Backbone like flexibility.
 
 Facilitates the creation of modules and apps.
 
+[test link](test/link)
 
 ## Global Methods
 
